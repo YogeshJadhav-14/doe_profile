@@ -1,0 +1,670 @@
+        
+        .left {
+            position: fixed;
+           
+            top: 0px;
+            left: 0px;
+            background-color: black;
+            height: 475px;
+            width: 80px;
+            display: inline-block;
+            
+         
+        }
+        .h1 {
+            position: relative;
+            background-color: black;
+            height: 62px;
+            margin-top: -10px;
+        }
+        .a1 {
+            position: relative;
+            background-color: black;
+            height: 69px;
+            top: 0px;
+
+        }
+        .v1 {
+            position: relative;
+            background-color:black;
+            height: 72px;
+            top: 0px;
+
+        }
+        .m1 {
+            position: relative;
+            background-color: black;
+            height: 72px;
+            top: 0px;
+
+        }
+
+        
+        .h1:hover {
+            background-color: dimgrey;
+        }
+        .a1:hover {
+            background-color: dimgrey;
+        }
+        .v1:hover {
+            background-color: dimgrey;
+        }
+        .m1:hover {
+            background-color: dimgrey;
+        }
+        .avathar {
+            position: relative;
+            top:0px;
+        }
+        .home {
+            position: relative;
+            left:24px ;
+            top: 10px;
+
+        }
+        .home2 {
+            color: white;
+            position: relative;
+            top: 4px;
+            left: 17px;
+            font-size: 10px;
+        }
+        .about {
+            position: relative;
+            left:21px ;
+            top: 10px;
+
+        }
+        .about2 {
+            color: white;
+            position: relative;
+            top: 4px;
+            left: 18px;
+            font-size: 10px;
+        }
+        .view {
+            position: relative;
+            left:16px ;
+            top: 10px;
+
+        }
+        .view2 {
+            color: white;
+            position: relative;
+            top: 0px;
+            left: 17px;
+            font-size: 10px;
+        }
+        .mail {
+            position: relative;
+            left:17px ;
+            top: 10px;
+
+        }
+        .contact {
+            color: white;
+            position: relative;
+            top: 4px;
+            left: 13px;
+            font-size: 10px;
+        }
+        .right {
+            background-color: black;
+            left: 11.5px;
+            height: 3800px;
+            width: 898px;
+            position: relative;
+            margin-left: 60px;
+            display: inline-block;
+            
+        }
+        .smoke{
+            position: relative;
+            top:140px;
+            left: 150px;
+
+        }
+        .iam{
+            color: white;
+            position: absolute;
+            top: 70px;
+            left: 360px;
+            font-size: 40px;
+        }
+        .photo{
+            color: white;
+            position: absolute;
+            top: 120px;
+            left: 390px;
+            font-size: 11px;
+
+        }
+        .name{
+            position: relative;
+            top: 180px;
+            font-size: 20px;
+            color: white;
+            left: 150px;
+
+        }
+        .para1{
+            color: darkgray;
+            position: relative;
+            top: 210px;
+            font-size: 13px;
+            left: 150px;
+            text-align: justify;
+
+        }
+        .skills {
+            position: relative;
+            top: 220px;
+            font-size: 20px;
+            color: white;
+            left: 150px;
+
+        }
+        .photography{
+            letter-spacing: 4px;
+            position: relative;
+            top: 220px;
+            color: darkgray;
+            font-size: 12px;
+            left: 150px;
+
+        }
+        .back{ background-color: white;
+            position: relative;
+            top: 220px;
+            height: 20px;
+            width:670px ;
+            left: 150px;
+
+        }
+        .in{
+            background-color: darkgray;
+            position: relative;
+            top: 0px;
+            height: 20px;
+            width:630px ;
+            left: 0px;
+
+
+        }
+        .web{
+            letter-spacing: 4px;
+            position: relative;
+            top: 230px;
+            color: darkgray;
+            font-size: 12px;
+            left: 150px;
+
+        }
+        .back2 { background-color: white;
+            position: relative;
+            top: 230px;
+            height: 20px;
+            width:670px ;
+            left: 150px;
+
+        }
+        .in2 {
+            background-color: darkgray;
+            position: relative;
+            top: 0px;
+            height: 20px;
+            width:570px ;
+            left: 0px;
+
+
+        }
+        .photoshop{
+            letter-spacing: 4px;
+            position: relative;
+            top: 240px;
+            color: darkgray;
+            font-size: 12px;
+            left: 150px;
+
+        }
+        .back3 { 
+            background-color: white;
+            position: relative;
+            top: 240px;
+            height: 20px;
+            width:670px ;
+            left: 150px;
+
+        }
+        .in3 {
+            background-color: darkgray;
+            position: relative;
+            top: 0px;
+            height: 20px;
+            width:500px ;
+            left: 0px;
+        }
+        .white {
+            position: relative;
+            top: 270px;
+            
+            background-color: white;
+            height:40px ;
+            width: 670px;
+            font-size: 12px;
+            left: 150px;
+        }
+        .white2 {
+            position: relative;
+            top: 270px;
+            
+            background-color: white;
+            height:40px ;
+            width: 670px;
+            font-size: 12px;
+            left: 150px;
+        }
+        .download {
+            position: relative;
+
+            top: 290px;
+            left: 150px;
+            background-color: white;
+            height: 30px;
+            width: 150px;
+            font-size: 12px;
+        }
+        .download:hover{
+            background-color:darkgray;
+        }
+        .price{
+            position: relative;
+            top: 300px;
+            font-size: 20px;
+            background-color: black;
+            color: white;
+            width: 748px;
+            height: 400px;
+            left: 150px;
+        }
+        .basic{
+            position: relative;
+            background-color:lightblue;
+            width: 320px;
+            height: 350px;
+            display: inline-block;
+        }
+
+
+        .bas{
+            position: relative;
+            bottom: 20px;
+            
+            background-color:darkgrey;
+            width:320px ;
+            height:60px ;
+            left:-40px;
+        }
+        
+        .basic1{
+            position: relative;
+            left:125px;
+            top: 25px;
+            list-style-type: none;
+            font-size: 18px;
+            color: black;
+            
+        }
+        .web1{
+            position: relative;
+            top: 15px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+
+        }
+        .photo1{
+            position: relative;
+            top: 3px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+        }
+        .storage1{
+            position: relative;
+            top: 3px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+        }
+        .mail1{
+            position: relative;
+            top: 3px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+        }
+        .dollar1{
+            position: relative;
+            top: 10px;
+            font-size: 18px;
+            list-style-type: none;
+            color: black;
+            
+            left: 92px;}
+        .month1{
+            position: relative;
+            top: -13px;
+            font-size: 13px;
+            list-style-type: none;
+            color: black;
+            
+            left: 83px;
+        }
+        .sign1{
+            position: relative;
+            top: 10px;
+            font-size: 13px;
+            list-style-type: none;
+            
+            left: 80px;
+        }
+        .up1{
+            padding:4px 8px;
+            font-size: 12px;
+            border: none;
+            color: lightslategray;
+        }
+        .bas:hover{
+            background-color: gray;
+
+        }
+        .basic:hover{
+            background-color: honeydew;
+            margin-left: 0px;
+        }
+        
+
+            
+        
+        
+        
+        .up1:hover{
+            background-color: black;
+        }
+
+
+        .pro{
+            position: relative;
+            top: 3px;
+            left: 5px;
+            background-color:lightblue;
+            width: 320px;
+            height: 350px;
+            display: inline-block;
+        }
+        .prooo{
+            position: relative;
+            bottom: 20px;
+            
+            background-color:darkgrey;
+            width:320px ;
+            height:60px ;
+            left:-40px;
+        }
+        
+        .pro1{
+            position: relative;
+            left:140px;
+            top: 25px;
+            list-style-type: none;
+            font-size: 18px;
+            color: black;
+            
+        }
+        .web2{
+            position: relative;
+            top: 15px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+
+        }
+        .photo2{
+            position: relative;
+            top: 3px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+        }
+        .storage2{
+            position: relative;
+            top: 3px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+        }
+        .mail2{
+            position: relative;
+            top: 3px;
+            font-size: 12px;
+            list-style-type: none;
+            color: black;
+            
+            left: 80px;
+
+        }
+        .dollar2{
+            position: relative;
+            top: 10px;
+            font-size: 18px;
+            list-style-type: none;
+            color: black;
+            
+            left: 92px;}
+        .month2{
+            position: relative;
+            top: -13px;
+            font-size: 13px;
+            list-style-type: none;
+            color: black;
+            
+            left: 83px;
+        }
+        .sign2{
+            position: relative;
+            top: 10px;
+            font-size: 13px;
+            list-style-type: none;
+            
+            left: 80px;
+        }
+        .up2{
+            padding:4px 8px;
+            font-size: 12px;
+            border: none;
+            color: lightslategray;
+        }
+        .prooo:hover{
+            background-color: gray;
+
+        }
+        .pro:hover{
+            background-color: honeydew;
+            margin-left: 0px;
+        }
+        .up2:hover{
+            background-color: black;
+        }
+
+
+        .reputation{
+            position: relative;
+            
+            font-size: 20px;
+            color: darkgray;
+            left:150px;
+            top: 300px;
+        }
+
+
+        .reput1{
+            position: relative;
+            border-radius: 70%;
+        }
+        .chris{
+            position: relative;
+            font-size: 15px;
+            top: -35px;
+            left: 10px;
+        }
+        .ceo{
+            position: relative;
+            font-size:13px ;
+            top:-35px;
+            left: 10px;
+        }
+        .john{
+            position: relative;
+            font-size:13px ;
+            top: -10px;
+            right:180px;
+
+        }
+        .rebecca{
+            position: relative;
+            top: 20px;
+        }
+        .reput2{
+            position: relative;
+            border-radius: 70%;
+        }
+        .flex{
+            position: relative;
+            font-size: 15px;
+            top: -35px;
+            left: 10px;
+        }
+        .ceo2{
+            position: relative;
+            font-size:13px ;
+            top:-35px;
+            left: 10px;
+        }
+        .john2{
+            position: relative;
+            font-size:13px ;
+            top: -10px;
+            right:170px;
+        }
+        .photos{
+            position: relative;
+            
+            font-size: 20px;
+            color: white;
+            left:150px;
+            top: 350px;
+        }
+        .rebecca1 {
+            position: relative;
+            top: 20px;
+            
+        }
+        .rebecca2 {
+            position: relative;
+            left:330px;
+            top: -185px;
+        }
+        .rebecca3 {
+            position: relative;
+            bottom: 320px;
+
+        }
+        .rebecca4 {
+            position: relative;
+            bottom: 735px;
+            left: 330px;
+        }
+        .rebecca5 {
+            position: relative;
+            left: 330px;
+            bottom:730px;
+        }
+        .rebecca6 {
+            position: relative;
+            bottom:720px;
+        }
+        .rebecca7 {
+            position: relative;
+            left: 330px;
+            bottom:930px;
+        }
+        .contact_me {
+            position: relative;
+            
+            font-size: 20px;
+            color: darkgray;
+            left:150px;
+            bottom: 500px;
+        }
+        .locate{
+            position: relative;
+            top: 2px;
+            
+
+        }
+        .call{
+            position: relative;
+            top: 10px;
+
+        }
+        .mailid{
+            position: relative;
+            top: 22px;
+
+        }
+        .lets{
+            position: relative;
+            color: darkgray;
+            left: 150px;
+            bottom: 450px;
+            font-size: 13px;
+        }
+        
+        .message {
+            background-color: white;
+            color: black;
+            height: 30px;
+            width: 120px;
+
+
+        }
+        .footer {
+            position: relative;
+            text-align: center;
+            color: white;
+            font-size: 13px;
+            bottom: 400px;
+
+        }
